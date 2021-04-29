@@ -1,0 +1,14 @@
+//          Info<< "\nEvolving " << kinematicCloud1.name() << endl;
+            kinematicCloud1.evolve();
+//             Info<< "\nEvolving " << kinematicCloud2.name() << endl;
+            kinematicCloud2.evolve();
+//             Info<< "\nEvolving " << kinematicCloud3.name() << endl;
+            kinematicCloud3.evolve();
+//             Info<< "\nEvolving " << kinematicCloud4.name() << endl;
+            kinematicCloud4.evolve();
+//             Info<< "\nEvolving " << kinematicCloud5.name() << endl;
+            kinematicCloud5.evolve();
+//             Info<< "\nEvolving " << kinematicCloud6.name() << endl;
+            kinematicCloud6.evolve();
+//             Info<< "\nEvolving " << kinematicCloud7.name() << endl;
+            kinematicCloud7.evolve();
